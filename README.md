@@ -43,5 +43,7 @@ This lead me to my last inquiry: which industries as a whole make the most money
 
 Sources:
 https://www.bls.gov/data/#employment
+
 https://www.census.gov/programs-surveys/acs/
+
 https://www.census.gov/quickfacts/seattlecitywashington
