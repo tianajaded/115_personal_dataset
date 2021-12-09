@@ -15,3 +15,10 @@ This visualization is the amount of bachelor's degrees in Seattle, Washington se
 
 
 ![000091](https://user-images.githubusercontent.com/75195983/145333771-97017702-38b5-4bd7-8aea-b25d1acceb82.png)
+
+
+![seattleincomeranges](https://user-images.githubusercontent.com/75195983/145333868-bb7df04d-0ce6-429b-8d2b-788b4086968c.png)
+
+![usincomeranges](https://user-images.githubusercontent.com/75195983/145333957-546469ed-4e08-41fc-b5b4-4bf4e575f0bb.png)
+
+![industrywage](https://user-images.githubusercontent.com/75195983/145334301-d2e95640-ff14-4b41-9108-e6b3632ef21f.png)
