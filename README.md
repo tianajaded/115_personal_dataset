@@ -1,5 +1,5 @@
 ###115_personal_dataset
-#Seattle Demographics
+*Seattle Demographics
  ##Motivation
 I have lived off and on in Seattle for my whole life and love the city. I have seen it really change over the course of growing up here, and I want to look a little bit closer at some of the data. As a black person, I was definitely curious about some of the racial demographics and wanted to look into them further. And from there, I just kept having more and more questions, which is what this dataset has set out to examine and answer. 
 
